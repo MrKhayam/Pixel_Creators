@@ -5,7 +5,7 @@ import { FaGripLines } from "react-icons/fa";
 const Navbar = () => {
   return (
     <>
-      <div className="w-[90%] left-6 z-10 rounded-lg h-auto fixed p-4 bg-gradient-to-r from-[#1A143D] via-[#3B0F6C] to-[#1A143D] flex justify-between items-center">
+      <div className="w-[90%] left-4 z-10 rounded-lg h-auto fixed p-4 bg-gradient-to-r from-[#1A143D] via-[#3B0F6C] to-[#1A143D] flex justify-between items-center">
       <div className="left">
       <div className="logo">
         <img className='w-[25%]' src="/1.png" alt="" />
