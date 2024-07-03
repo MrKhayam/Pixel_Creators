@@ -6,6 +6,7 @@ import Para from './components/Para';
 import BigCard from './components/BigCard';
 import ResultCard from './components/ResultCard';
 import SmmCard from './components/SmmCard';
+import Portfolio from './components/Portfolio';
 
 const App = () => {
   return (
@@ -18,6 +19,8 @@ const App = () => {
       <BigCard />
       <ResultCard />
       <SmmCard />
+      <Horizontal />
+      <Portfolio />
       </div>
     </>
   );

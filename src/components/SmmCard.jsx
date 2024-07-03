@@ -7,7 +7,7 @@ const SmmCard = () => {
       <div className="flex flex-col mt-14 items-center">
         <p className='text-[#9202DE]'>The SMM AGENCY</p>
         <h1 className='text-3xl font-semibold mt-2 w-[85%] text-center'>The Best Thumbnail Providing Agency.</h1>
-        <div className="rounded-3xl border-y border-[#118D9E] flex w-[80%] h-56 p-5 bg-gradient-to-br from-[#1A143D] via-[#3B0F6C] to-[#1A143D] items-center justify-center my-5">
+        <div className="rounded-3xl flex w-[80%] h-56 p-5 bg-gradient-to-b border-t border-[#118D9E] from-[#2A034A] via-[#0E0019] to-[#000] items-center justify-center my-5">
             <img src="/1.png" className='w-[60%]' alt="" />
         </div> 
         <h1 className='text-[#9202DE]'>PIXEL CREATORS</h1>       
