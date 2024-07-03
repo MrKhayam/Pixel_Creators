@@ -4,7 +4,7 @@ import Para from './Para'
 const ResultCard = () => {
   return (
     <>
-      <div className='mt-14 w-[80%] m-auto bg-gradient-to-b border-t border-[#118D9E] from-[#2A034A] via-[#0E0019] to-[#000] p-4 rounded-t-3xl h-auto flex flex-col gap-7 items-center'>
+      <div className='mt-14 w-[90%] m-auto bg-gradient-to-b border-t border-[#118D9E] from-[#2A034A] via-[#0E0019] to-[#000] p-4 rounded-t-3xl h-auto flex flex-col gap-7 items-center'>
         <p className='text-white font-semibold'>OUR CLIENTS</p>
         <h1 className='text-white text-3xl text-center w-[87%]'>Our Clients Are Breaking the Algorithm</h1>
         <Para mart = {4} text = {'One Client at a time, We are transforming their growth on Social Media, by providing them best thumbnails.'} />
