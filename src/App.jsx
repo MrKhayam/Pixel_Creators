@@ -7,6 +7,9 @@ import BigCard from './components/BigCard';
 import ResultCard from './components/ResultCard';
 import SmmCard from './components/SmmCard';
 import Portfolio from './components/Portfolio';
+import Vertical from './components/Vertical';
+import Contact from './components/Contact';
+import Footer from './components/Footer';
 
 const App = () => {
   return (
@@ -21,6 +24,9 @@ const App = () => {
       <SmmCard />
       <Horizontal />
       <Portfolio />
+      <Vertical />
+      <Contact />
+      <Footer />
       </div>
     </>
   );
