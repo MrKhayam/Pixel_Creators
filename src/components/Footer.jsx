@@ -7,7 +7,7 @@ const Footer = () => {
         <img className='w-[40%] mt-8' src="/1.png" alt="" />
         <p className='text-center text-sm mt-3 text-gray-400'>Acceptable Use | Privacy Policy | Terms & Conditions</p>
         <p className='text-center text-[10px] text-gray-400'>This site is not a part of the Facebook website or Facebook Inc. Additionally, This site is NOT endorsed by Facebook in any way. FACEBOOK is a trademark of FACEBOOK, Inc.</p>
-        <p className='text-center text-[12px] text-gray-400'>©2024 agency-accelerator.io. All Rights Reserved.</p>
+        <p className='text-center text-[12px] text-gray-400'>©2024 pixel-creators.vercel.app. All Rights Reserved.</p>
       </div>
     </>
   )
